@@ -18,5 +18,5 @@ app.delete('/', (req, res) => {
 })
 
 app.listen(8080, () =>
-    console.log('Servidor iniciado na porta 3000')
+    console.log('Servidor iniciado na porta 8080')
 );
